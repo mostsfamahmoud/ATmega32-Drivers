@@ -11,7 +11,7 @@ Drivers Implemented:
   - SPI (Serial Peripheral Interface)
   - TWI(I2C) (Two Wire Interface)
   
-## Hardware Abstraction Layer (MCAL)
+## Hardware Abstraction Layer (HAL)
 Drivers Implemented:
 - BUZZER
 - DC MOTOR 
